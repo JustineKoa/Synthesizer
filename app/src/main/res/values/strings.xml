@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Synthesizer</string>
+    <string name="eButton">e Button</string>
+    <string name="fButton">f Button</string>
+    <string name="c1">Challenge 1</string>
+    <string name="c2">Challenge 2</string>
+    <string name="c3">Challenge 3</string>
+    <string name="c5">Challenge 5</string>
+    <string name="c9">Challenge 9</string>
+    <string name="c12">Challenge 12</string>
+    <string name="next">Next Page</string>
+    <string name="lamb">Lamb</string>
+
+    <string-array name="notes">
+        <item>A</item>
+        <item>B</item>
+        <item>BB</item>
+        <item>C</item>
+        <item>CS</item>
+        <item>D</item>
+        <item>DS</item>
+        <item>E</item>
+        <item>F</item>
+        <item>FS</item>
+        <item>G</item>
+        <item>GS</item>
+        <item>HE</item>
+        <item>HF</item>
+        <item>HFS</item>
+        <item>HG</item>
+    </string-array>
+    <string name="title_activity_2">Activity2</string>
+</resources>
